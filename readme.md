@@ -7,7 +7,6 @@ is instruction set as data and states
 A process goes through different states from its inception to its conclusion.
 
 Types of states:
-- Unsubmitted;
 - Creating;
 - Ready;
 - Running;
